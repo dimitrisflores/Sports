@@ -1,5 +1,5 @@
 
-public class chess
+public class chess extends nonContactSports
 	{
 		public chess()
 		{
